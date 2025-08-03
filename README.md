@@ -1,6 +1,6 @@
 # DevOps Capstone Project - Implemented by Vaibhav Nimase
 
-This project showcases a complete CI/CD DevOps pipeline using industry-standard tools like Terraform, Jenkins, Docker, Kubernetes, Helm, and Prometheus-Grafana for monitoring.
+This project showcases a complete CI/CD DevOps pipeline using industry-standard tools like Terraform, Jenkins, Docker, Kubernetes, and Prometheus-Grafana for monitoring.
 
 ### 🔧 Tools & Technologies
 
@@ -9,9 +9,9 @@ This project showcases a complete CI/CD DevOps pipeline using industry-standard 
 | Infrastructure | Terraform |
 | CI/CD | Jenkins |
 | Containerization | Docker |
-| Orchestration | Kubernetes + Helm |
+| Orchestration | Kubernetes |
 | Monitoring | Prometheus + Grafana |
-| Cloud | AWS (EC2, S3, IAM, VPC) |
+| Cloud | AWS (EC2, S3, IAM, VPC,EKS) |
 
 > 🔁 **Note:** This project was practically implemented by me during my CDAC PG-DITISS course.
 
