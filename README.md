@@ -29,5 +29,5 @@ Jenkinsfile for automated CI/CD (build → push → deploy)
 
 OpenTelemetry, Prometheus, & Jaeger for observability
 
-Envoy Proxy, Kafka queue, Valkey cache, Flagd feature flags
+
 
